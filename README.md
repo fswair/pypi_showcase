@@ -5,4 +5,5 @@
 
 [safe-typing](https://pypi.org/project/safe-typing/): This is a module that provides a safe way to access types within the typing/typing_extensions namespaces.
 
+[safelib](https://pypi.org/project/safelib/): A library for safe imports and scoped imports management.
 
